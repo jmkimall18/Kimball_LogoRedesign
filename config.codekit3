@@ -40,6 +40,16 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/design\/Frame 1.1.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/design\/Frame 1.1.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/design\/Frame 1.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -140,11 +150,31 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/design\/Frame 23.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/design\/Frame 23.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/design\/Frame 30.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
       "oAP" : "\/design\/Frame 30.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/design\/Frame 40.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/design\/Frame 40.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -180,6 +210,16 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/design\/Frame 90.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/design\/Frame 90.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/design\/Frame 100.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -210,6 +250,16 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/design\/Frame 166.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/design\/Frame 166.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/design\/Frame 199.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -220,11 +270,51 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/design\/Frame 400.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/design\/Frame 400.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/design\/Frame 777.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/design\/Frame 777.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/design\/Frame 1111.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
       "oAP" : "\/design\/Frame 1111.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/design\/Frame 1333.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/design\/Frame 1333.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/design\/Frame 15555.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/design\/Frame 15555.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
