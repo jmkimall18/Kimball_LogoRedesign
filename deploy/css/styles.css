@@ -365,6 +365,22 @@ ul li {
   list-style: none;
 }
 
+.next {
+  display: none;
+}
+
+.next2 {
+  display: none;
+}
+
+.next3 {
+  display: none;
+}
+
+.yes {
+  display: none;
+}
+
 /* =============
     Typography
 ============= */
@@ -414,14 +430,12 @@ textarea {
     Footer
 ============= */
 #preloader {
-  position: absolute;
   height: 100vh;
   width: 100%;
   z-index: 1000;
   background-color: #E9F3F1;
 }
 #preloader > div {
-  position: absolute;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -429,7 +443,6 @@ textarea {
   height: 100%;
 }
 #preloader > div svg {
-  position: absolute;
   display: flex;
   justify-content: center;
   align-items: center;

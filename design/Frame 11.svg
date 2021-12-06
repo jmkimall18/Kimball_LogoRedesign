@@ -1,0 +1,22 @@
+<svg width="1440" height="840" viewBox="0 0 1440 840" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 1">
+<rect width="1440" height="840" fill="white"/>
+<g id="Frame" clip-path="url(#clip0_1_2)">
+<path id="Vector" d="M667.79 441.2C668.881 453.227 673.623 464.634 681.38 473.89" stroke="#E13A30" stroke-width="10" stroke-miterlimit="10"/>
+<path id="Vector_2" d="M667.79 441.2C668.881 453.227 673.623 464.634 681.38 473.89" stroke="#FFF047" stroke-width="10" stroke-miterlimit="10" stroke-linecap="round"/>
+<path id="Vector_3" d="M681.61 473.89C689.246 482.994 699.458 489.576 710.903 492.771C722.348 495.966 734.492 495.624 745.74 491.79" stroke="#E13A30" stroke-width="10" stroke-miterlimit="10" stroke-linecap="round"/>
+<path id="Vector_4" d="M709.47 492.1C713.269 493.324 717.182 494.162 721.15 494.6C734.652 496.062 748.245 492.818 759.631 485.415C771.018 478.012 779.498 466.904 783.64 453.97" stroke="#00ABEA" stroke-width="10" stroke-miterlimit="10" stroke-linecap="round"/>
+<path id="Vector_5" d="M769.66 476.66C775.343 470.974 779.804 464.186 782.769 456.714C785.734 449.242 787.141 441.243 786.903 433.207C786.665 425.171 784.788 417.269 781.386 409.986C777.984 402.702 773.129 396.19 767.12 390.85" stroke="#E13A30" stroke-width="10" stroke-miterlimit="10" stroke-linecap="round"/>
+<path id="Vector_6" d="M781.12 409.58C774.484 395.641 762.641 384.864 748.139 379.569C733.637 374.275 717.636 374.885 703.58 381.27" stroke="#00A159" stroke-width="10" stroke-miterlimit="10" stroke-linecap="round"/>
+<path id="Vector_7" d="M745.97 378.84C735.403 375.448 724.094 375.105 713.341 377.85C702.588 380.595 692.827 386.318 685.18 394.36C681.722 397.993 678.748 402.056 676.33 406.45" stroke="#2A358D" stroke-width="10" stroke-miterlimit="10" stroke-linecap="round"/>
+<path id="Vector_8" d="M702.28 382.6C694.778 385.988 688.07 390.914 682.592 397.058C677.114 403.203 672.988 410.429 670.48 418.27C669.584 421.034 668.899 423.862 668.43 426.73C667.612 431.623 667.424 436.6 667.87 441.54" stroke="#DF3589" stroke-width="10" stroke-miterlimit="10" stroke-linecap="round"/>
+<path id="Vector_9" d="M668 441C669.233 454.578 675.123 467.312 684.671 477.044C694.219 486.776 706.838 492.908 720.39 494.4" stroke="#97C354" stroke-width="10" stroke-miterlimit="10" stroke-linecap="round"/>
+<path id="Vector_10" d="M667.63 445.98C670.739 445.98 673.26 443.459 673.26 440.35C673.26 437.241 670.739 434.72 667.63 434.72C664.521 434.72 662 437.241 662 440.35C662 443.459 664.521 445.98 667.63 445.98Z" fill="#4D5275"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_2">
+<rect width="129.92" height="128.94" fill="white" transform="translate(662 371)"/>
+</clipPath>
+</defs>
+</svg>
