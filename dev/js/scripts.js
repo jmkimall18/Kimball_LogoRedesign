@@ -162,9 +162,9 @@ function Frame_85(){
 
    
 
-    tl.from(".the", {rotation: 360, y: 700, duration:.4, stagger:.1 });
+    tl.from(".the", {rotation: 180, y: 700, duration:.4, stagger:.1 });
 
-    tl.from(".nesting", {rotation: 360, y: 700, duration:.4, stagger:.1 });
+    tl.from(".nesting", {rotation: 180, y: 700, duration:.4, stagger:.1 });
 
     tl.from(".house", {rotation: 180, y: 700, duration:.4, stagger:.1 });
 
