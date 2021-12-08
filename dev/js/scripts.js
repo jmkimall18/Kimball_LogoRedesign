@@ -42,7 +42,7 @@ tl.to("#Vector_2", { ease: 7,duration:.0, opacity: 0,},);
 tl.from("#Vector", {ease: 7, duration: .1, drawSVG:"",stagger: 0.2 });
 
 tl.to("#Vector", { ease: 7,duration:.0, opacity: 0,},);
-tl.from("#bird1", {duration: .4, drawSVG:"170% 170%", });
+tl.from("#bird1", {duration: .7, drawSVG:"170% 170%", });
 
 return tl;
 }
@@ -50,10 +50,10 @@ return tl;
 function Frame_79(){
 const tl = gsap.timeline({repeat: 0,});
 
-tl.from("#Vectorrr4", { duration: .5, ease: "bounce.out", y: 700 },"same");
-tl.from("#Vectorrr3", { duration: .5, ease: "bounce.out", y: -700 },"same");
+tl.from("#Vectorrr4", { duration: 1, ease: "bounce.out", y: 700 },"same");
+tl.from("#Vectorrr3", { duration: 1, ease: "bounce.out", y: -700 },"same");
 tl.to("#Vectorrr4", {duration:0.06, opacity: 0},);
-tl.to("#Vectorrr3", {duration:.03, opacity: 0},);
+tl.to("#Vectorrr3", {duration:.06, opacity: 0},);
 tl.from("#new5", {ease: 7, duration: .05, drawSVG:"100% 100%",stagger: 0.2 });
 tl.to("#new5", { ease: 7,duration:.0, opacity: 0});
 tl.from("#new4", {ease: 7, duration: .1, drawSVG:"100% 100%",stagger: 0.2 },);
@@ -71,7 +71,7 @@ tl.to("#new10", {duration:.0, opacity: 0},);
 tl.from("#new11", {ease: 7, duration: .1, drawSVG:"100% 100%", },);
 tl.to("#new11", {duration:.0, opacity: 0},);
 
-tl.from("#bird2", {duration: .4, drawSVG:"200% 200%", });
+tl.from("#bird2", {duration: .9, drawSVG:"200% 200%", });
 
 
 return tl;
@@ -92,12 +92,12 @@ function Frame_81(){
     const tl = gsap.timeline({repeat: 0,});
 
     tl.from("#beak", { duration: .3, opacity: 0 },);
-    tl.to("#fill1", { duration: .3, opacity: 0 },);
-    tl.to("#bird1", {duration: .3, drawSVG:"200% 200%", },"same");
+    tl.to("#fill1", { duration: .5, opacity: 0 },);
+    tl.to("#bird1", {duration: .5, drawSVG:"200% 200%", },"same");
 
 
-    tl.from("#clipPath-1", { duration: .3, opacity: 0 },);
-    tl.from("#map", { duration: .3, x:"-85", });
+    tl.from("#clipPath-1", { duration: .7, opacity: 0 },);
+    tl.from("#map", { duration: .7, x:"-85", });
 
  
 
@@ -130,8 +130,8 @@ tl.to("#beak", {
   tl.to("#bird2", {duration: .4, drawSVG:"200% 200%", });
   tl.to("#fill2", { duration: .8, rotate:360 },);
 
-  tl.to("#fill2", {duration: .06,morphSVG:"#small2"},);
-  tl.to("#fill2", { duration: .05, opacity: 0 },);
+  tl.to("#fill2", {duration: .4,morphSVG:"#small2"},);
+  tl.to("#fill2", { duration: .09, opacity: 0 },);
 
 
 tl.to("#map", { duration: .1, scale:.1, transformOrigin:"20% center",x:+15 }, "+=1" );
@@ -162,11 +162,11 @@ function Frame_85(){
 
    
 
-    tl.from(".the", {rotation: 360, y: 700, duration:.6, stagger:.1 });
+    tl.from(".the", {rotation: 360, y: 700, duration:.4, stagger:.1 });
 
-    tl.from(".nesting", {rotation: 360, y: 700, duration:.6, stagger:.1 });
+    tl.from(".nesting", {rotation: 360, y: 700, duration:.4, stagger:.1 });
 
-    tl.from(".house", {rotation: 180, y: 700, duration:.6, stagger:.1 });
+    tl.from(".house", {rotation: 180, y: 700, duration:.4, stagger:.1 });
 
 
     //tl.from("#h", {rotation: 360, y: 700, duration: .4});
